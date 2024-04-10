@@ -1,0 +1,2 @@
+ChatGPT, text generation, https://openai.com/blog/chatgpt-plus
+DALL-E, image generation, https://openai.com/blog/chatgpt-plus
